@@ -1,0 +1,18 @@
+{
+  "name": "errorhandling",
+  "version": "1.0.0",
+  "description": "now we decsribe Error handling",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0",
+    "nodemon": "^3.1.10"
+  },
+  "devDependencies": {},
+  "keywords": []
+}
